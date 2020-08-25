@@ -1,0 +1,11 @@
+{"folders":[
+		{
+			"name": "🎏 fantastic-dorian-kettledrum",
+			"uri": "glitchfs://fantastic-dorian-kettledrum"
+		},
+		{
+			"path": "."
+		}
+	],"settings":{"editor.defaultFormatter":"glitch.glitch","files.autoSave":"afterDelay","files.autoSaveDelay":1000,"files.eol":"\n","files.exclude":{
+			"**/.vscode-glitch/cache/**": true
+		},"files.trimTrailingWhitespace":false,"git.autoRepositoryDetection":false},"launch":{"version":"0.2.0","configurations":[{"type":"pwa-chrome","request":"launch","name":"Launch Chrome against localhost","url":"http://localhost:8080","webRoot":"${workspaceFolder}"}]}}
